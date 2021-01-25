@@ -12,7 +12,7 @@
 
     &_image {
         position: relative;
-        background-image: url('/images/bg-intro-mobile.svg');
+        background-image: url('https://alnoor23.github.io/FrontEndMentor-EasyBank-Landing-Page/images/bg-intro-mobile.svg');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -28,13 +28,7 @@
             order: 2;
             height: 41rem;
             background-image: none;
-            //background-image: url('/images/bg-intro-desktop.svg');
-            //background-position: left center;
         }
-
-        //&::before, &::after {
-            //border: 1px solid magenta;
-        //}
 
         &::before {
 
@@ -42,7 +36,7 @@
                 content: '';
                 height: 100%;
                 position: absolute;
-                background-image: url('/images/bg-intro-desktop.svg');
+                background-image: url('https://alnoor23.github.io/FrontEndMentor-EasyBank-Landing-Page/images/bg-intro-desktop.svg');
                 background-repeat: no-repeat;
                 background-position: center bottom;
                 width: 150%;
@@ -57,7 +51,7 @@
             height: 100%;
             width: 100%;
             position: absolute;
-            background-image: url('/images/image-mockups.png');
+            background-image: url('https://alnoor23.github.io/FrontEndMentor-EasyBank-Landing-Page/images/image-mockups.png');
             background-size: 93%;
             background-repeat: no-repeat;
             background-position: center bottom;
